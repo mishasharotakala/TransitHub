@@ -13,7 +13,8 @@ const LoginScreen = () => {
         <Text style={styles.headingText}>Welcome</Text>
         <Text style={styles.headingText}>Back</Text>
       </View>
-      {/*  */}
+      {/* form */}
+      <View style={styles.inputConatiner}></View>
     </View>
   )
 }
